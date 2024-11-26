@@ -1,3 +1,3 @@
 # atelier
 
-https://github.com/Cannage/atelier
+cannage.github.io/atelier/
